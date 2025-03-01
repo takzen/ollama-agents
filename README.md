@@ -19,7 +19,7 @@ Agent Analizy Danych to aplikacja Streamlit demonstrująca wykorzystanie modeli 
 
 1. Klonowanie repozytorium
 ```bash
-git clone https://github.com/twoj-login/agent-analizy-danych.git
+git clone https://github.com/takzen/ollama-agents.git
 cd agent-analizy-danych
 ```
 
@@ -76,4 +76,4 @@ Aplikacja używa prostej bazy danych SQLite z następującymi tabelami:
 MIT
 
 ## Autor
-[Twoje Imię i Nazwisko]
+Krzysztof Pika
