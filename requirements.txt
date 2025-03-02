@@ -1,7 +1,6 @@
 langchain
 langchain-community
 langchain-core
-langchain-sqlite
 pydantic
 streamlit
 ollama
